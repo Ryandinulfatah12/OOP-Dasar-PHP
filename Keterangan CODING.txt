@@ -1,0 +1,6 @@
+Keterangan Coding :
+
+angka didepan nama file merupakan urutan tanda episode video seri OOP DASAR PHP
+Episode 1 Tidak ada Karena hanya pendahuluan
+
+BY : RYAN DINUL FATAH
